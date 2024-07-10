@@ -1,7 +1,7 @@
 # To Do List
 A simple React application for managing your daily tasks. The application allows users to add, edit, and delete tasks.
 
-$\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/portfolio-combine-react-project/edit/main/src/AllApp/AppToDoList" traget="_blank">this repository</a>
+$\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/portfolio-combine-react-project/tree/main/src/AllApp/AppToDoList" traget="_blank">this repository</a>
 
 ## Demo
 You can see a live demo of the project [here](https://to-do-list-iota-eight-74.vercel.app/).
